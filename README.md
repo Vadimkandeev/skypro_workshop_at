@@ -11,10 +11,10 @@
     > Привет, прошу доступ для аккаунта @EreminD к репозиторию https://github.com/EreminD/skypro_workshop_at.git
 
 2. выгрузить репозиторий к себе на компьютер. Для этого вам пригодится команда в терминале `git clone`
-[Инструкция от команды GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+    [Инструкция от команды GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 3. Создайте себе свою ветку. Сильно рекомендую назвать ветку осмысленно. Названия типа `asdf1234` ни к чему хорошему не приводят. 
-[Подробнее про создание веток](https://git-scm.com/book/ru/v2/Ветвление-в-Git-Основы-ветвления-и-слияния)
+    [Подробнее про создание веток](https://git-scm.com/book/ru/v2/Ветвление-в-Git-Основы-ветвления-и-слияния)
 
 4. В папке в конец файла requirements.txt добавьте строчку `Faker==18.3.1`
 5. Запушить изменения на github
